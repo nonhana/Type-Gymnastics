@@ -1,7 +1,8 @@
 # Type Gymnastics
 
 > 众所周知，TypeScript 的类型系统是图灵完备的。
-> 使用 TypeScript 进行类型变成的操作，被很多人戏称为 **类型体操**。
+> 
+> 使用 TypeScript 进行类型编程的操作，被很多人戏称为 **类型体操**。
 
 一些关于 TypeScript 类型体操的技巧总结，持续更新中...
 
